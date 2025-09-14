@@ -1,10 +1,20 @@
 # 🏥 Healthcare Project With GCP  
 
-An enterprise-grade Healthcare Revenue Cycle Management (RCM) Data Lake on Google Cloud Platform (GCP).
-Designed to unify healthcare data across hospitals, claims, and provider registries, this project automates ETL workflows, ensures data quality, and delivers actionable insights into billing and reimbursement.
-By combining scalable cloud infrastructure with industry best practices, it helps organizations improve cash flow, optimize claim processing, and achieve better compliance.
+---
+> End-to-end **Healthcare Revenue Cycle Management (RCM)** Data Lake & Analytics on **Google Cloud Platform (GCP)**  
 
+✅ Centralizes healthcare data from **EMRs, claims, CPT & NPI codes** into a unified data lake  
+✅ Stores raw & processed data in **Google Cloud Storage (GCS) 📦**  
+✅ Automates **ETL pipelines** with **Cloud Composer ⏱️** & **Dataproc (Apache Spark) 🔥**  
+✅ Implements **Medallion Architecture (Bronze → Silver → Gold) 🪞** for structured, reliable data  
+✅ Uses **SCD Type 2 🕒** + **CDM (Common Data Model) 📊** for historical tracking & standardization  
+✅ Powers **BigQuery 🗃️** for advanced analytics & KPI dashboards on revenue and claims  
+✅ Leverages **Cloud SQL (MySQL) 🗄️** for EMR transactional data  
+✅ Ensures **CI/CD ⚡** with **GitHub 🐙** & **Cloud Build 🔨** for seamless deployments  
+✅ Provides **logging, monitoring & error handling 📋** across all pipelines  
+✅ Helps healthcare providers & insurers **reduce claim denials, improve revenue tracking, and streamline billing 💰**  
 
+---
 ## 📑 Table of Contents  
 
 1. [🌟 Overview](#-overview)  
@@ -282,5 +292,5 @@ Contributions welcome!
 
 👤 **Author**: Rohesen
 🔗 **GitHub**: [Rohesen/Healthcare-Project-With-GCP](https://github.com/Rohesen/Healthcare-Project-With-GCP)
-📧 **Email**: *[your-email@example.com](mailto:your-email@example.com)*
+📧 **Email**: *[your-email@example.com](mailto:rohesen3u@gmail.com)*
 
