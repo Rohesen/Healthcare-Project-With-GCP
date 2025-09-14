@@ -142,6 +142,30 @@ Monitoring & Logging across all layers
 
 ---
 
+## ⚡ Deployment & CI/CD  
+
+Deployment in this project is fully automated using **CI/CD pipelines** to ensure reliable, version-controlled, and repeatable deployments.  
+
+✅ **Version Control with GitHub 🐙**  
+- All pipeline code, DAGs, and Spark jobs are managed in GitHub repositories.  
+- Branching strategy (feature branches → PRs → main branch).  
+
+✅ **Continuous Integration (CI) ⚙️**  
+- On every push or PR, code is linted and validated.  
+- Unit tests and integration tests ensure quality before merging.  
+
+✅ **Continuous Deployment (CD) 🚀**  
+- **Cloud Build 🔨** automatically deploys Airflow DAGs, Dataproc jobs, and BigQuery SQL scripts to GCP.  
+- Trigger-based deployments for different environments (dev, test, prod).  
+
+✅ **Automation Benefits 📈**  
+- Reduces manual intervention in deployments.  
+- Guarantees reproducibility and rollback if needed.  
+- Improves collaboration with faster feedback loops.  
+
+📸 *See screenshots below for Cloud Build triggers & history in [Project Screenshots](#️-project-screenshots).*  
+
+
 ## 📊 Expected Outcomes & Deliverables
 
 * ⚡ **Automated pipelines** for RCM data
