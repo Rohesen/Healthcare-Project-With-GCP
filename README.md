@@ -1,8 +1,9 @@
 # 🏥 Healthcare Project With GCP  
 
-> End-to-end **Healthcare Revenue Cycle Management (RCM)** Data Lake & Analytics on **Google Cloud Platform (GCP)**  
+An enterprise-grade Healthcare Revenue Cycle Management (RCM) Data Lake on Google Cloud Platform (GCP).
+Designed to unify healthcare data across hospitals, claims, and provider registries, this project automates ETL workflows, ensures data quality, and delivers actionable insights into billing and reimbursement.
+By combining scalable cloud infrastructure with industry best practices, it helps organizations improve cash flow, optimize claim processing, and achieve better compliance.
 
----
 
 ## 📑 Table of Contents  
 
