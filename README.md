@@ -165,6 +165,7 @@ Deployment in this project is fully automated using **CI/CD pipelines** to ensur
 
 📸 *See screenshots below for Cloud Build triggers & history in [Project Screenshots](#️-project-screenshots).*  
 
+---
 
 ## 📊 Expected Outcomes & Deliverables
 
