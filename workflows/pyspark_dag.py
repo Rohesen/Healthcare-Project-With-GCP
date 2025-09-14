@@ -12,7 +12,7 @@ from airflow.providers.google.cloud.operators.dataproc import (
 # define the variables
 PROJECT_ID = "horizontal-data-464415-v6"
 REGION = "us-west1"
-CLUSTER_NAME = "my-demo-cluster"
+CLUSTER_NAME = "my-cluster"
 COMPOSER_BUCKET = "us-west1-demo-instance-airf-a334e598-bucket" ## change this 
 
 GCS_JOB_FILE_1 = f"gs://{COMPOSER_BUCKET}/data/INGESTION/hospitalA_mysqlToLanding.py"
@@ -45,7 +45,7 @@ PYSPARK_JOB_4 = {
 
 
 ARGS = {
-    "owner": "SHAIK SAIDHUL",
+    "owner": "Rohesen Maurya",
     "start_date": None,
     "depends_on_past": False,
     "email_on_failure": False,
