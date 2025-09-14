@@ -61,6 +61,8 @@ This project centralizes it to:
 
 ## 🏗️ Architecture  
 
+![architecture](Architecture.png)
+
 ```text
  EMR MySQL (Hospitals)   Claims Files   CPT / NPI Data
          │                   │               │
