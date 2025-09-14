@@ -308,11 +308,6 @@ Contributions welcome!
 
 ---
 
-## 📜 License
-
-📌 License info (e.g. MIT, Apache 2.0) — update based on your project.
-
----
 
 ## 📬 Contact
 
